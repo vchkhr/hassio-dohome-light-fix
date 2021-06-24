@@ -14,7 +14,7 @@ Now when you set the brightness to more than 99%, only the white LED in the bulb
 When the brightness value is set from 1 to 99% and the color is selected, colored LEDs work to set the required lighting color, and a white LED to set the required brightness level. \
 When the brightness is set to 0% and the color is selected, only the colored LEDs work, getting the maximum output of the desired light, while the white LED is off.
 - Reduced the transition time between the states of the light bulb. \
-With the previous value, the transition time (turning on, turning off, changing the colors of the deodes and the brightness of white) took too long and caused discomfort. The transition now takes less time.
+With the previous value, the transition time (turning on, turning off, changing the colors of LEDs and the brightness of white) took too long and caused discomfort. The transition now takes less time.
 
 ## Feedback and Donations
 Feedback is always welcome at [GitHub Issues](https://github.com/vchkhr/hassio-dohome-light-fix/issues). \
